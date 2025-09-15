@@ -1,0 +1,2 @@
+# snpcglobal
+Website MERN Stack
